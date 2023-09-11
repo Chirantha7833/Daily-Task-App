@@ -1,0 +1,48 @@
+/* .masthead{
+    background-size:cover;
+    height:100%;
+    width:100%;
+    position:relative;
+    color:white;
+} */
+ .bg{
+   
+    position:fixed;
+    height: 100%;
+    width: 100%;
+
+    
+    
+} 
+.cont{
+    position:fixed;
+    width:100%;
+    height:100%;
+    top: 25%;
+    
+    
+
+    
+}
+.text-center{
+      position: absolute;
+  bottom: 20%;
+  top:20%;
+  right: 10px;
+  background-color:none;
+  color: rgb(255, 238, 0);
+  padding-left: 20px;
+  padding-right: 20px;
+  
+  
+  
+} 
+.head{
+    font-size: 120px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    
+   
+   
+}
+
